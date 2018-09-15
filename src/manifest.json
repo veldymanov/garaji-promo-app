@@ -1,6 +1,6 @@
 {
-  "name": "garaji-promo-app",
-  "short_name": "garaji-promo-app",
+  "name": "garaji-promo",
+  "short_name": "garaji-promo",
   "theme_color": "#9976d2",
   "background_color": "#aafafa",
   "display": "standalone",
